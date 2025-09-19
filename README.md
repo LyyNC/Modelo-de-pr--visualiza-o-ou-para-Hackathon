@@ -208,6 +208,7 @@ Execução: O código está contido em um único script, projetado para ser exec
 Ele realizará a amostragem, a união dos dados, a agregação e a modelagem, gerando o arquivo de submissão final.                                                                                                                              
 
 🧑‍💻 Equipe
+
 Izan Cassio Nascimento Pereira
 
 Lincon Souza Pacífico
