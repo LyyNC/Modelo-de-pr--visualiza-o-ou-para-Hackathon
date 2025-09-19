@@ -207,7 +207,7 @@ Estrutura de Arquivos: Certifique-se de que os arquivos .parquet estejam prontos
 Execução: O código está contido em um único script, projetado para ser executado em ordem sequencial. 
 Ele realizará a amostragem, a união dos dados, a agregação e a modelagem, gerando o arquivo de submissão final.                                                                                                                              
 
-🧑‍💻 Equipe
+🧑‍💻 Equipe Trio Parada Dura
 
 Izan Cassio Nascimento Pereira
 
